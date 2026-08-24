@@ -1,0 +1,6 @@
+Feature,Importance
+numerical__age,0.8993595
+numerical__wealth_index,0.036077157
+categorical__residence_type_1,0.028551796
+numerical__is_pregnant,0.018485047
+categorical__residence_type_2,0.017526498

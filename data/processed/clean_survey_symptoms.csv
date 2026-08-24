@@ -1,0 +1,29 @@
+age,hot_flashes_severity,menopause_stage,source
+42,0,Premenopausal / Perimenopausal,survey
+38,1,Premenopausal / Perimenopausal,survey
+38,0,Perimenopausal,survey
+47,0,Premenopausal / Perimenopausal,survey
+38,1,Perimenopausal,survey
+47,1,Premenopausal / Perimenopausal,survey
+52,3,Postmenopausal,survey
+47,1,Postmenopausal,survey
+42,1,Perimenopausal,survey
+38,0,Premenopausal / Perimenopausal,survey
+47,3,Postmenopausal,survey
+38,1,Premenopausal / Perimenopausal,survey
+38,0,Premenopausal / Perimenopausal,survey
+42,0,Premenopausal / Perimenopausal,survey
+47,0,Premenopausal / Perimenopausal,survey
+38,2,Premenopausal / Perimenopausal,survey
+38,3,Premenopausal / Perimenopausal,survey
+42,0,Premenopausal / Perimenopausal,survey
+57,0,Postmenopausal,survey
+47,1,Perimenopausal,survey
+38,2,Perimenopausal,survey
+52,3,Premenopausal / Perimenopausal,survey
+52,1,Perimenopausal,survey
+57,0,Premenopausal / Perimenopausal,survey
+57,1,Postmenopausal,survey
+57,3,Postmenopausal,survey
+57,0,Postmenopausal,survey
+38,0,Perimenopausal,survey
