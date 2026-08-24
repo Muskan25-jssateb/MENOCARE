@@ -39,26 +39,26 @@ Reserved for the symptom prediction and tracking component.
 
 ## Project Structure
 
-menocare/
-├── data/
-│   ├── raw/
-│   └── processed/
-├── src/
-│   ├── data_inspection.py
-│   ├── preprocessing.py
-│   ├── train_models.py
-│   ├── model_comparison.py
-│   ├── evaluate_model.py
-│   ├── feature_importance.py
-│   ├── save_model.py
-│   ├── estimate_window.py
-│   └── predict.py
-├── models/
-├── results/
-│   ├── figures/
-│   └── metrics/
-├── requirements.txt
-└── README.md
+    menocare/
+    ├── data/
+    │   ├── raw/
+    │   └── processed/
+    ├── src/
+    │   ├── data_inspection.py
+    │   ├── preprocessing.py
+    │   ├── train_models.py
+    │   ├── model_comparison.py
+    │   ├── evaluate_model.py
+    │   ├── feature_importance.py
+    │   ├── save_model.py
+    │   ├── estimate_window.py
+    │   └── predict.py
+    ├── models/
+    ├── results/
+    │   ├── figures/
+    │   └── metrics/
+    ├── requirements.txt
+    └── README.md
 
 ## Setup
 
