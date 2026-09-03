@@ -1,0 +1,37 @@
+Menopause_Stage,Sample_Size,Symptom,Prevalence_Pct,Mean_Severity_0to3
+Premenopausal,14,Hot Flashes,42.9,0.79
+Premenopausal,14,Night Sweats,42.9,0.57
+Premenopausal,14,Sleep Disruption,50.0,0.5
+Premenopausal,14,Mood Changes,92.9,1.36
+Premenopausal,14,Brain Fog,57.1,0.79
+Premenopausal,14,Fatigue,64.3,0.93
+Premenopausal,14,Joint Pain,78.6,1.57
+Premenopausal,14,Intimate Changes,50.0,0.57
+Premenopausal,14,Stress Overwhelm,50.0,0.5
+Premenopausal,14,Palpitations,35.7,0.36
+Premenopausal,14,Digestive Issues,42.9,0.86
+Premenopausal,14,QoL Impact,64.3,0.86
+Perimenopausal,7,Hot Flashes,71.4,0.86
+Perimenopausal,7,Night Sweats,28.6,0.29
+Perimenopausal,7,Sleep Disruption,71.4,0.71
+Perimenopausal,7,Mood Changes,100.0,1.71
+Perimenopausal,7,Brain Fog,85.7,1.43
+Perimenopausal,7,Fatigue,71.4,1.14
+Perimenopausal,7,Joint Pain,85.7,1.86
+Perimenopausal,7,Intimate Changes,42.9,0.57
+Perimenopausal,7,Stress Overwhelm,100.0,1.29
+Perimenopausal,7,Palpitations,71.4,0.86
+Perimenopausal,7,Digestive Issues,57.1,1.14
+Perimenopausal,7,QoL Impact,85.7,1.14
+Postmenopausal,7,Hot Flashes,71.4,1.57
+Postmenopausal,7,Night Sweats,57.1,1.43
+Postmenopausal,7,Sleep Disruption,71.4,1.14
+Postmenopausal,7,Mood Changes,100.0,1.57
+Postmenopausal,7,Brain Fog,85.7,1.43
+Postmenopausal,7,Fatigue,57.1,0.86
+Postmenopausal,7,Joint Pain,85.7,2.14
+Postmenopausal,7,Intimate Changes,28.6,0.29
+Postmenopausal,7,Stress Overwhelm,85.7,1.71
+Postmenopausal,7,Palpitations,57.1,1.0
+Postmenopausal,7,Digestive Issues,71.4,1.57
+Postmenopausal,7,QoL Impact,85.7,1.29

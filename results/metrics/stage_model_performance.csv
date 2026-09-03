@@ -1,0 +1,2 @@
+Model,Accuracy,Macro_F1,Macro_ROC_AUC,N_Train,N_Test
+HistGradientBoostingClassifier,0.6805205211146392,0.45245487295086734,0.728987863589627,269572,67394

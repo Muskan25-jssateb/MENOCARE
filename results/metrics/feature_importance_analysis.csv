@@ -1,0 +1,5 @@
+Feature,RF_Gini_Importance,Permutation_Importance_Mean,Permutation_Importance_Std,Odds_Ratio_Perimenopause,Odds_Ratio_Postmenopause
+Age,0.851,0.0362,0.0009,0.827,2.464
+Geographic_Region,0.0967,0.0047,0.0009,1.053,0.983
+Wealth_Index (Nutrition/SES),0.0388,0.0023,0.0007,1.006,0.9
+Residence_Type (Urban/Rural),0.0134,0.0014,0.0008,1.01,1.01
